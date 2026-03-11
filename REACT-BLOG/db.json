@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "category": "Technology",
+      "title": "React Development Tips",
+      "blogger_name": "John Doe",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "description": "Learn the best practices for building scalable React applications using hooks and modern JavaScript."
+    },
+    {
+      "id": 2,
+      "category": "Sports",
+      "title": "Champions League Highlights",
+      "blogger_name": "Sarah Lee",
+      "image": "https://images.unsplash.com/photo-1508098682722-e99c643e7f0b?w=800",
+      "description": "Top moments and exciting goals from the latest Champions League matches."
+    },
+    {
+      "id": 3,
+      "category": "Business",
+      "title": "Startup Success Strategies",
+      "blogger_name": "Michael Brown",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800",
+      "description": "Key strategies every startup should follow to grow quickly and succeed in the competitive market."
+    },
+    {
+      "id": 4,
+      "category": "Health",
+      "title": "Healthy Lifestyle Tips",
+      "blogger_name": "Emily Watson",
+      "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800",
+      "description": "Simple habits that can help you maintain a healthy lifestyle and improve your overall wellbeing."
+    },
+    {
+      "id": 5,
+      "category": "Science",
+      "title": "Latest Space Discoveries",
+      "blogger_name": "David Miller",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800",
+      "description": "Discover the latest findings and missions in space exploration and astronomy."
+    },
+    {
+      "id": 6,
+      "category": "Entertainment",
+      "title": "Top Movies of the Year",
+      "blogger_name": "Anna Smith",
+      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800",
+      "description": "A list of the most popular and highly rated movies released this year."
+    }
+  ]
+}
